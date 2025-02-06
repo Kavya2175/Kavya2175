@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python,Web Technolohies,SQL,Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kavyampe@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Kavya2175/Kavya2175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
